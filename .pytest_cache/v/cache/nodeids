@@ -1,0 +1,3 @@
+[
+  "tests/testadder.py::TestAdder::test_simple"
+]
